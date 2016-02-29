@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-demo-4.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.10.2.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.contenttype-3.4.100.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.jobs-3.5.300.v20130429-1813.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.resources.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime-3.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime-3.7.0.v20110110.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common-3.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.preferences-3.5.0.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.core-3.9.50.v20140317-1741.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi-3.8.0.v20120529-1548.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
