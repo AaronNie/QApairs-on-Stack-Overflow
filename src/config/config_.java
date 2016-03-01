@@ -2,10 +2,11 @@ package config;
 
 public class config_ {
 	
-	public static String posts_dir="G:/corpus/corpus_SO/stackoverflow/Posts.XML"; //Ô´ÎÄ¼ş
-	public static String indexPath_posts= "G:/corpus/corpus_SO/stackoverflow/index/posts"; //Ë÷ÒıÎÄ¼ş
+	//chang your direction of the date here.
+	public static String posts_dir="G:/corpus/corpus_SO/stackoverflow/Posts.XML"; //æºæ–‡ä»¶
+	public static String indexPath_posts= "G:/corpus/corpus_SO/stackoverflow/index/posts"; //ç´¢å¼•æ–‡ä»¶
 	
-	public static String IDsLinks_dir= "G:/corpus/corpus_SO/stackoverflow/IDsLinks.txt"; //Ë÷ÒıÎÄ¼ş
+	public static String IDsLinks_dir= "G:/corpus/corpus_SO/stackoverflow/IDsLinks.txt"; //ç´¢å¼•æ–‡ä»¶
 	//test
 //	public static String posts_dir="C:/code_nlm/test/post_test.xml"; 
 //	public static String indexPath_posts= "C:/code_nlm/test/index";
