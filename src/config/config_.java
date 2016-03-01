@@ -2,7 +2,11 @@ package config;
 
 public class config_ {
 	
-	//chang your direction of the date here.
+	//chang your directory of the date here.
+	// for example: the Post.xml in the file "data"
+	// then the directory path will be
+	// public static String posts_dir="./data/Posts.XML";
+	
 	public static String posts_dir="G:/corpus/corpus_SO/stackoverflow/Posts.XML"; //源文件
 	public static String indexPath_posts= "G:/corpus/corpus_SO/stackoverflow/index/posts"; //索引文件
 	
